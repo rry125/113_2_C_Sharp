@@ -23,10 +23,10 @@ namespace Toturial_4_4
 
             if (double.TryParse(textBox_KM.Text, out km))
             {
-                if (double.TryParse(textBox_OIL.Text,out oil))
+                if (double.TryParse(textBox_OIL.Text, out oil))
                 {
                     ave = km / oil;
-                    MSG .Text = "平均油耗：" + ave.ToString("f2") + "公里/公升";
+                    MSG.Text = "平均油耗：" + ave.ToString("f2") + "公里/公升";
                 }
                 else
                 {
@@ -37,14 +37,20 @@ namespace Toturial_4_4
 
             }
 
-            else {
+            else
+            {
                 MessageBox.Show("請輸入數字");
                 textBox_KM.Focus();
                 textBox_KM.Text = "";
-                 }
+            }
 
             km = double.Parse(textBox_KM.Text);
             oil = double.Parse(textBox_OIL.Text);
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            this.Close();
         }
     }
 }

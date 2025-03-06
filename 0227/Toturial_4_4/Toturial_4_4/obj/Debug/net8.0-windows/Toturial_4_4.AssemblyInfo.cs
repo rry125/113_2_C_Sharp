@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Toturial_4_4")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2be4c2c806aace3f0e2cd31f614b44a3c45e3606")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+79be574ea0268d908168ed3a796d9fd88d0324af")]
 [assembly: System.Reflection.AssemblyProductAttribute("Toturial_4_4")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Toturial_4_4")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

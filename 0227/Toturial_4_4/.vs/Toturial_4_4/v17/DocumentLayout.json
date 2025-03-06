@@ -1,14 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\shu\\Desktop\\113_2_C_Sharp\\0227\\Toturial_4_4\\",
+  "WorkspaceRootPath": "C:\\Users\\shu\\Desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\113_2_C_Sharp\\0227\\Toturial_4_4\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3F7035B8-4DC0-409A-BBE8-69478AB76FAB}|Toturial_4_4\\Toturial_4_4.csproj|c:\\users\\shu\\desktop\\113_2_c_sharp\\0227\\toturial_4_4\\toturial_4_4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F7035B8-4DC0-409A-BBE8-69478AB76FAB}|Toturial_4_4\\Toturial_4_4.csproj|solutionrelative:toturial_4_4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3F7035B8-4DC0-409A-BBE8-69478AB76FAB}|Toturial_4_4\\Toturial_4_4.csproj|C:\\Users\\shu\\Desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\113_2_C_Sharp\\0227\\Toturial_4_4\\toturial_4_4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3F7035B8-4DC0-409A-BBE8-69478AB76FAB}|Toturial_4_4\\Toturial_4_4.csproj|solutionrelative:toturial_4_4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F7035B8-4DC0-409A-BBE8-69478AB76FAB}|Toturial_4_4\\Toturial_4_4.csproj|C:\\Users\\shu\\Desktop\\113_2_C_Sharp\\0227\\Toturial_4_4\\toturial_4_4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{3F7035B8-4DC0-409A-BBE8-69478AB76FAB}|Toturial_4_4\\Toturial_4_4.csproj|solutionrelative:toturial_4_4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{3F7035B8-4DC0-409A-BBE8-69478AB76FAB}|Toturial_4_4\\Toturial_4_4.csproj|c:\\users\\shu\\desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\113_2_c_sharp\\0227\\toturial_4_4\\toturial_4_4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F7035B8-4DC0-409A-BBE8-69478AB76FAB}|Toturial_4_4\\Toturial_4_4.csproj|solutionrelative:toturial_4_4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,31 +18,36 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\shu\\Desktop\\113_2_C_Sharp\\0227\\Toturial_4_4\\Toturial_4_4\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\shu\\Desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\113_2_C_Sharp\\0227\\Toturial_4_4\\Toturial_4_4\\Form1.cs",
               "RelativeDocumentMoniker": "Toturial_4_4\\Form1.cs",
-              "ToolTip": "C:\\Users\\shu\\Desktop\\113_2_C_Sharp\\0227\\Toturial_4_4\\Toturial_4_4\\Form1.cs",
+              "ToolTip": "C:\\Users\\shu\\Desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\113_2_C_Sharp\\0227\\Toturial_4_4\\Toturial_4_4\\Form1.cs",
               "RelativeToolTip": "Toturial_4_4\\Form1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAAAuwDQAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-27T03:22:45.238Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Form1.cs [\u8A2D\u8A08]",
-              "DocumentMoniker": "C:\\Users\\shu\\Desktop\\113_2_C_Sharp\\0227\\Toturial_4_4\\Toturial_4_4\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\shu\\Desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\113_2_C_Sharp\\0227\\Toturial_4_4\\Toturial_4_4\\Form1.cs",
               "RelativeDocumentMoniker": "Toturial_4_4\\Form1.cs",
-              "ToolTip": "C:\\Users\\shu\\Desktop\\113_2_C_Sharp\\113_2_C_Sharp\\0227\\Toturial_4_4\\Toturial_4_4\\Form1.cs [\u8A2D\u8A08]",
-              "RelativeToolTip": "..\\..\\113_2_C_Sharp\\0227\\Toturial_4_4\\Toturial_4_4\\Form1.cs [\u8A2D\u8A08]",
+              "ToolTip": "C:\\Users\\shu\\Desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\113_2_C_Sharp\\0227\\Toturial_4_4\\Toturial_4_4\\Form1.cs [\u8A2D\u8A08]",
+              "RelativeToolTip": "Toturial_4_4\\Form1.cs [\u8A2D\u8A08]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T03:09:28.704Z"
+              "WhenOpened": "2025-02-27T03:09:28.704Z",
+              "EditorCaption": " [\u8A2D\u8A08]"
             }
           ]
         }
