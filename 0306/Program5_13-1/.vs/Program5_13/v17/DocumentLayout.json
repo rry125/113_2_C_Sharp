@@ -12,9 +12,6 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Program5_13||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DB305F37-F57B-4362-9B13-B0F219D29823}|Program5_13\\Program5_13.csproj|c:\\users\\shu\\desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\113_2_c_sharp\\0306\\program5_13-1\\program5_13\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,8 +21,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
@@ -35,20 +36,19 @@
               "ToolTip": "C:\\Users\\shu\\Desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\113_2_C_Sharp\\0306\\Program5_13-1\\Program5_13\\Program5_13.csproj",
               "RelativeToolTip": "Program5_13\\Program5_13.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-03-06T04:26:21.154Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-06T04:26:21.154Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Form1.cs [\u8A2D\u8A08]",
+              "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\shu\\Desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\113_2_C_Sharp\\0306\\Program5_13-1\\Program5_13\\Form1.cs",
               "RelativeDocumentMoniker": "Program5_13\\Form1.cs",
-              "ToolTip": "C:\\Users\\shu\\Desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\113_2_C_Sharp\\0306\\Program5_13-1\\Program5_13\\Form1.cs [\u8A2D\u8A08]",
-              "RelativeToolTip": "Program5_13\\Form1.cs [\u8A2D\u8A08]",
+              "ToolTip": "C:\\Users\\shu\\Desktop\\\u65B0\u589E\u8CC7\u6599\u593E\\113_2_C_Sharp\\0306\\Program5_13-1\\Program5_13\\Form1.cs [Design]",
+              "RelativeToolTip": "Program5_13\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-06T01:39:24.961Z",
-              "EditorCaption": " [\u8A2D\u8A08]"
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
