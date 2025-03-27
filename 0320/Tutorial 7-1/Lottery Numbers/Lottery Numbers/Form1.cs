@@ -34,12 +34,14 @@ namespace Lottery_Numbers
             //fourthLabel.Text = lotteryNumbers[3].ToString();
             //fifthLabel.Text = lotteryNumbers[4].ToString();
 
-            Label[] showlabels = {firstLabel, secondLabel,thirdLabel,fourthLabel,fifthLabel};
-            for (int i = 0;i < lotteryNumbers.Length;i++) {
+            Label[] showlabels = { firstLabel, secondLabel, thirdLabel, fourthLabel, fifthLabel };
+            for (int i = 0; i < lotteryNumbers.Length; i++)
+            {
                 {
-                    showlabels[i].Text = lotteryNumbers[i].ToString();                
+                    showlabels[i].Text = lotteryNumbers[i].ToString();
                 }
 
+            }
         }
 
 
