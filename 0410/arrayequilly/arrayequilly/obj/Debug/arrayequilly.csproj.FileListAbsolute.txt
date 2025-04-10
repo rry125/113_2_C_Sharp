@@ -1,0 +1,8 @@
+C:\Users\shaun\Desktop\新增資料夾 (2)\113_2_C_Sharp\0410\arrayequilly\arrayequilly\bin\Debug\arrayequilly.dll
+C:\Users\shaun\Desktop\新增資料夾 (2)\113_2_C_Sharp\0410\arrayequilly\arrayequilly\bin\Debug\arrayequilly.pdb
+C:\Users\shaun\Desktop\新增資料夾 (2)\113_2_C_Sharp\0410\arrayequilly\arrayequilly\obj\Debug\arrayequilly.csproj.AssemblyReference.cache
+C:\Users\shaun\Desktop\新增資料夾 (2)\113_2_C_Sharp\0410\arrayequilly\arrayequilly\obj\Debug\arrayequilly.UserControl1.resources
+C:\Users\shaun\Desktop\新增資料夾 (2)\113_2_C_Sharp\0410\arrayequilly\arrayequilly\obj\Debug\arrayequilly.csproj.GenerateResource.cache
+C:\Users\shaun\Desktop\新增資料夾 (2)\113_2_C_Sharp\0410\arrayequilly\arrayequilly\obj\Debug\arrayequilly.csproj.CoreCompileInputs.cache
+C:\Users\shaun\Desktop\新增資料夾 (2)\113_2_C_Sharp\0410\arrayequilly\arrayequilly\obj\Debug\arrayequilly.dll
+C:\Users\shaun\Desktop\新增資料夾 (2)\113_2_C_Sharp\0410\arrayequilly\arrayequilly\obj\Debug\arrayequilly.pdb

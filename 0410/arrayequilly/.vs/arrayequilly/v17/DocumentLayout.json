@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shaun\\Desktop\\\u65B0\u589E\u8CC7\u6599\u593E (2)\\113_2_C_Sharp\\0410\\arrayequilly\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E4C44D39-F45E-4EE1-8555-25D8B6BDF763}|arrayequilly\\arrayequilly.csproj|c:\\users\\shaun\\desktop\\\u65B0\u589E\u8CC7\u6599\u593E (2)\\113_2_c_sharp\\0410\\arrayequilly\\arrayequilly\\usercontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4C44D39-F45E-4EE1-8555-25D8B6BDF763}|arrayequilly\\arrayequilly.csproj|solutionrelative:arrayequilly\\usercontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4C44D39-F45E-4EE1-8555-25D8B6BDF763}|arrayequilly\\arrayequilly.csproj|c:\\users\\shaun\\desktop\\\u65B0\u589E\u8CC7\u6599\u593E (2)\\113_2_c_sharp\\0410\\arrayequilly\\arrayequilly\\usercontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E4C44D39-F45E-4EE1-8555-25D8B6BDF763}|arrayequilly\\arrayequilly.csproj|solutionrelative:arrayequilly\\usercontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserControl1.cs",
+              "DocumentMoniker": "C:\\Users\\shaun\\Desktop\\\u65B0\u589E\u8CC7\u6599\u593E (2)\\113_2_C_Sharp\\0410\\arrayequilly\\arrayequilly\\UserControl1.cs",
+              "RelativeDocumentMoniker": "arrayequilly\\UserControl1.cs",
+              "ToolTip": "C:\\Users\\shaun\\Desktop\\\u65B0\u589E\u8CC7\u6599\u593E (2)\\113_2_C_Sharp\\0410\\arrayequilly\\arrayequilly\\UserControl1.cs",
+              "RelativeToolTip": "arrayequilly\\UserControl1.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAwBEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T06:12:51.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserControl1.cs [\u8A2D\u8A08]",
+              "DocumentMoniker": "C:\\Users\\shaun\\Desktop\\\u65B0\u589E\u8CC7\u6599\u593E (2)\\113_2_C_Sharp\\0410\\arrayequilly\\arrayequilly\\UserControl1.cs",
+              "RelativeDocumentMoniker": "arrayequilly\\UserControl1.cs",
+              "ToolTip": "C:\\Users\\shaun\\Desktop\\\u65B0\u589E\u8CC7\u6599\u593E (2)\\113_2_C_Sharp\\0410\\arrayequilly\\arrayequilly\\UserControl1.cs [\u8A2D\u8A08]",
+              "RelativeToolTip": "arrayequilly\\UserControl1.cs [\u8A2D\u8A08]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T06:12:24.125Z",
+              "EditorCaption": " [\u8A2D\u8A08]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
