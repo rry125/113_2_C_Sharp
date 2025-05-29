@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Coin Toss", "Coin Toss\Coin Toss.csproj", "{E35BEF83-3655-4011-A6C9-37284D3DB790}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "方案項目", "方案項目", "{4B446567-0F62-4998-B0CF-165189B489BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E35BEF83-3655-4011-A6C9-37284D3DB790}.Debug|x86.ActiveCfg = Debug|x86
+		{E35BEF83-3655-4011-A6C9-37284D3DB790}.Debug|x86.Build.0 = Debug|x86
+		{E35BEF83-3655-4011-A6C9-37284D3DB790}.Release|x86.ActiveCfg = Release|x86
+		{E35BEF83-3655-4011-A6C9-37284D3DB790}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
