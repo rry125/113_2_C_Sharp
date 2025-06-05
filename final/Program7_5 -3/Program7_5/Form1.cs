@@ -106,38 +106,32 @@ namespace Program7_5
 
         private void listBox1_SelectedIndexChanged(object sender, EventArgs e)
         {
-            // 取得使用者選擇的球隊名稱
-            string str = listBox1.SelectedItem.ToString();
-            int numWin = 0;
-            List<int> winningYears = new List<int>();
+            if (listBox1.SelectedItem == null)
+                return;
 
-            // 計算該球隊在冠軍資料中出現的次數，並記錄年份
-            for (int i = 0; i < winner.Count; i++)
+            string str = listBox1.SelectedItem.ToString();
+            var data = teamDataList.FirstOrDefault(t => t.Name == str);
+
+            if (string.IsNullOrEmpty(data.Name))
             {
-                if (str == winner[i])
-                {
-                    numWin++;
-                    winningYears.Add(years[i]);
-                }
+                label1.Text = "查無此隊伍資料。";
+                return;
             }
 
-            // 顯示該球隊的冠軍次數及年份
-            label1.Text = str + " 從 1903 年到 2009 年共贏得 " + numWin + " 次世界大賽冠軍。\n"
-                        + "冠軍年份：" + string.Join(", ", winningYears);
+            label1.Text = $"{data.Name} 從 1903 年到 2009 年共贏得 {data.WinCount} 次世界大賽冠軍。\n" +
+                          $"冠軍年份：" + string.Join(", ", data.WinYears);
         }
 
         // 重新整理隊伍清單，並更新listBox1顯示內容
         private void UpdateTeamList()
         {
-            // 取得所有冠軍隊伍名稱（含舊有與新加入），去除重複
             team = winner.Distinct().ToList();
-
-            // 清空listBox1並重新加入所有隊伍
             listBox1.Items.Clear();
             foreach (string t in team)
             {
                 listBox1.Items.Add(t);
             }
+            UpdateTeamDataList(); // 確保每次更新隊伍清單時也更新 teamDataList
         }
 
         private void button2_Click(object sender, EventArgs e)
@@ -222,6 +216,24 @@ namespace Program7_5
             finally
             {
                 Application.Exit();
+            }
+        }
+        private void UpdateTeamDataList()
+        {
+            teamDataList.Clear();
+            var allTeams = winner.Distinct().ToList();
+            foreach (var teamName in allTeams)
+            {
+                TeamData data = new TeamData(teamName);
+                for (int i = 0; i < winner.Count; i++)
+                {
+                    if (winner[i] == teamName)
+                    {
+                        data.WinCount++;
+                        data.WinYears.Add(years[i]);
+                    }
+                }
+                teamDataList.Add(data);
             }
         }
     }

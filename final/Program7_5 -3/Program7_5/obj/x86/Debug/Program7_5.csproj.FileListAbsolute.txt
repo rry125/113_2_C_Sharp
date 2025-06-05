@@ -42,3 +42,12 @@ C:\Users\shu\Desktop\Program7_5 -3\Program7_5\obj\x86\Debug\Program7_5.exe
 C:\Users\shu\Desktop\Program7_5 -3\Program7_5\obj\x86\Debug\Program7_5.pdb
 C:\Users\shu\Desktop\Program7_5 -3\Program7_5\bin\Debug\Program7_5.exe
 C:\Users\shu\Desktop\Program7_5 -3\Program7_5\bin\Debug\Program7_5.pdb
+C:\Users\shu\Documents\GitHub\113_2_C_Sharp\final\Program7_5 -3\Program7_5\obj\x86\Debug\Program7_5.csproj.AssemblyReference.cache
+C:\Users\shu\Documents\GitHub\113_2_C_Sharp\final\Program7_5 -3\Program7_5\obj\x86\Debug\Program7_5.Form1.resources
+C:\Users\shu\Documents\GitHub\113_2_C_Sharp\final\Program7_5 -3\Program7_5\obj\x86\Debug\Program7_5.Properties.Resources.resources
+C:\Users\shu\Documents\GitHub\113_2_C_Sharp\final\Program7_5 -3\Program7_5\obj\x86\Debug\Program7_5.csproj.GenerateResource.cache
+C:\Users\shu\Documents\GitHub\113_2_C_Sharp\final\Program7_5 -3\Program7_5\obj\x86\Debug\Program7_5.csproj.CoreCompileInputs.cache
+C:\Users\shu\Documents\GitHub\113_2_C_Sharp\final\Program7_5 -3\Program7_5\obj\x86\Debug\Program7_5.exe
+C:\Users\shu\Documents\GitHub\113_2_C_Sharp\final\Program7_5 -3\Program7_5\obj\x86\Debug\Program7_5.pdb
+C:\Users\shu\Documents\GitHub\113_2_C_Sharp\final\Program7_5 -3\Program7_5\bin\Debug\Program7_5.exe
+C:\Users\shu\Documents\GitHub\113_2_C_Sharp\final\Program7_5 -3\Program7_5\bin\Debug\Program7_5.pdb
